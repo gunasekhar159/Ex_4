@@ -150,6 +150,7 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 
 ## Output:
+![4](https://github.com/gunasekhar159/Ex_4/assets/95043391/5aae33e9-a7b8-4bec-b6ad-00b3be2c0757)
 
 
 
